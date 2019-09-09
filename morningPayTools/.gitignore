@@ -1,0 +1,9 @@
+/wallet/logs
+/wallet/target
+/wallet/.metadata
+/wallet/.idea
+/wallet/.settings
+/wallet/.factorypath
+/wallet/.classpath
+/wallet/out
+/wallet/META-INF
