@@ -9,7 +9,7 @@ ETpay适用于各种规模的交易所、钱包、区块链游戏等相关应用
 ### 2、etPayTools
 etPayTools源代码Project。用于生成私钥和相关公钥配置信息，用于初始化商户MorningPay配置。
 
-可以自行打包jar或直接运行com.etpay.Main类生成基本配置，也可以直接[下载](https://github.com/eostoken/morningpay/raw/master/bin/morningPayTools.jar)已经打包的jar包。
+可以自行打包jar或直接运行io.etwallet.etpay.Main类生成基本配置，也可以直接[下载](https://github.com/eostoken/etpay/raw/master/bin/etPayTools.jar)已经打包的jar包。
 jar包执行：
 ```
 java -jar etPayTools.jar>data.txt 
@@ -20,12 +20,12 @@ java -jar etPayTools.jar>data.txt
 ### 3、etPaySDK
 java版sdk及Demo。
 
-需要修改com.etpay.config.Config类中相关配置。
+需要修改io.etwallet.etpay.config.Config类中相关配置。
 
 ### 4、etPayCollects
    etPayCollects源代码Project。用于归集冷钱包资产，目前支持所有ERC-20 代币（ETH除外）。
    
-   可以自行打包jar或直接运行com.etpay.Main类生成基本配置，也可以直接[下载](https://github.com/eostoken/etpay/raw/master/bin/etPayCollects.jar)已经打包的jar包。
+   可以自行打包jar或直接运行io.etwallet.etpay.Main类生成基本配置，也可以直接[下载](https://github.com/eostoken/etpay/raw/master/bin/etPayCollects.jar)已经打包的jar包。
    
    jar包执行--安装jre后，直接双击打开。或执行下面命令行打开操作界面：
    
