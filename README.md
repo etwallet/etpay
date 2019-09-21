@@ -27,10 +27,19 @@ java版sdk及Demo。
    
    可以自行打包jar或直接运行com.etpay.Main类生成基本配置，也可以直接[下载](https://github.com/eostoken/etpay/raw/master/bin/etPayCollects.jar)已经打包的jar包。
    
-   jar包执行--安装jre后，直接双击打开。
+   jar包执行--安装jre后，直接双击打开。或执行下面命令行打开操作界面：
+   
+```
+java -jar etPayCollects.jar
+```
    
    请确保操作系统防火墙没有阻止访问外面相关端口。
 
 ### 4、bin
 1. 存放etPayTools打包为jar的文件etPayTools.jar。初始化生成助记词、私钥和公钥工具。
 2. 存放etPayCollects打包为jar的文件etPayCollects.jar。归集资产工具。
+
+### 其它
+java运行环境安装，可以自行下载jre。jre下载地址：
+
+[https://www.java.com](https://www.java.com)
