@@ -25,5 +25,5 @@ jar包执行--安装jre后，直接双击打开。
 请确保操作系统防火墙没有阻止访问外面相关端口。
 
 ### 4、bin
-1.存放etPayTools打包为jar的文件etPayTools.jar。
-2.存放etPayCollects打包为jar的文件etPayCollects.jar。归集资产工具
+1. 存放etPayTools打包为jar的文件etPayTools.jar。初始化生成助记词、私钥和公钥工具。
+2. 存放etPayCollects打包为jar的文件etPayCollects.jar。归集资产工具。
