@@ -26,3 +26,4 @@ jar包执行--安装jre后，直接双击打开。
 
 ### 4、bin
 存放etPayTools打包为jar的文件etPayTools.jar。
+存放etPayCollects打包为jar的文件etPayCollects.jar。归集资产工具
