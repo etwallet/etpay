@@ -2,9 +2,12 @@ ETpay是全球领先的数字资产支付平台，旨在为第三方平台提供
 
 ETpay适用于各种规模的交易所、钱包、区块链游戏等相关应用。
 
+**官方网站：[https://etpay.etwallet.io](https://etpay.etwallet.io)**
+<br><br>
+
 **目录说明：**
 ### 1、doc
-详细开发文档。[下载](https://github.com/eostoken/morningpay/raw/master/doc/MorningPay%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3.docx)
+详细开发文档。[下载](https://github.com/eostoken/etpay/raw/master/doc/MorningPay%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3.docx)
 
 ### 2、etPayTools
 etPayTools源代码Project。用于生成私钥和相关公钥配置信息，用于初始化商户MorningPay配置。
