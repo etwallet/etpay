@@ -1,0 +1,2 @@
+09:29:45.778 INFO [i.e.e.u.EthRpc]  eth_getBalance: {"jsonrpc":"2.0","id":1,"result":"0x0"}
+
