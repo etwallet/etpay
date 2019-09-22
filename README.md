@@ -26,7 +26,7 @@ java版sdk及Demo。
 需要修改io.etwallet.etpay.config.Config类中相关配置。
 
 ### 4、etPayCollects
-   etPayCollects源代码Project。用于归集冷钱包资产，目前支持所有ERC-20 代币（ETH除外）。
+   etPayCollects源代码Project。用于归集冷钱包资产，目前支持所有ERC-20 代币（包括ETH）。
    
    可以自行打包jar或直接运行io.etwallet.etpay.Main类生成基本配置，也可以直接[下载](https://github.com/eostoken/etpay/raw/master/bin/etPayCollects.jar)已经打包的jar包。
    
